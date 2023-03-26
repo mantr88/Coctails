@@ -1,3 +1,5 @@
+import axios from "axios";
+import { apiFetch } from './js/api';
 // Test import of a JavaScript module
 import { example } from '@/js/example'
 
